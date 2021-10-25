@@ -30,6 +30,7 @@ This project was written in Python 3.7.4 using the following libraries:
 
 - [Profile](https://github.com/terence-yeung "Terence Yeung")
 - [Email](mailto:terenceyeung0@gmail.com?subject=Hi "Hi!")
+- [LinkedIn](https://www.linkedin.com/in/terence-yeung/)
 
 ## Support
 
