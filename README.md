@@ -9,6 +9,7 @@
 
 ## Python Libraries Used
 
+This project was written in Python 3.7.4 using the following libraries:
 - NumPy
 - pandas
 - Matplotlib
