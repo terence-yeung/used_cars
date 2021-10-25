@@ -29,7 +29,6 @@
 
 - [Profile](https://github.com/terence-yeung "Terence Yeung")
 - [Email](mailto:terenceyeung0@gmail.com?subject=Hi "Hi!")
-- [Website](https://kingtechnologies.in "Welcome")
 
 ## Support
 
