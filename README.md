@@ -1,7 +1,36 @@
-# Used-Car-Price-Prediction---Regression
+<h1 align="center">Predicting Used Car Prices in India</h1>
 
-This project uses data on used car sales in India to gain insights into the factors that affect the selling price of a car and the aim is to be able to predict the price that a used car will sell for.
+<p align="center">The aim of the project is to be able to price a used car in India that has not yet been sold based on its features and prices of other similar cars that have been sold.</p>
 
-Dataset obtained from Nehal Birla via Kaggle: https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
+## Links
 
-Sections include data cleaning, exploratory data analysis and model building using linear regression, ridge regression and random forest regression algorithms.
+- [Repo](https://github.com/terence-yeung/used_cars "Predicting Used Car Prices in India Repo")
+- [Dataset](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)
+
+## Python Libraries Used
+
+- NumPy
+- pandas
+- Matplotlib
+- Seaborn
+- scikit-learn
+- XGBoost
+- LightGBM
+- Joblib
+
+## Future Updates
+
+- [ ] Add more used car sales data
+- [ ] Grid Search on wider range of values for hyperparameter tuning
+
+## Author
+
+**Terence Yeung**
+
+- [Profile](https://github.com/terence-yeung "Terence Yeung")
+- [Email](mailto:terenceyeung0@gmail.com?subject=Hi "Hi!")
+- [Website](https://kingtechnologies.in "Welcome")
+
+## Support
+
+Contributions, issues, and feature requests are welcome!
