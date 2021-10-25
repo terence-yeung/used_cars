@@ -1,6 +1,6 @@
 <h1 align="center">Predicting Used Car Prices in India</h1>
 
-<p align="center">The aim of the project is to be able to price a used car in India that has not yet been sold based on its features and prices of other similar cars that have been sold.</p>
+<p align="center">The aim of the project is to be able to price a used car in India that has not yet been sold based on its features and prices of other similar cars that have been sold. Data was obtained from CarDekho - an online used car sales platform - via Kaggle. The dataset contains information on used cars previously sold on the website.</p>
 
 ## Links
 
